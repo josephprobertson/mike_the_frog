@@ -1,0 +1,3 @@
+[submodule "mike_the_frog"]
+	path = /mike_the_frog
+	url = git://josephprobertson.github.io
